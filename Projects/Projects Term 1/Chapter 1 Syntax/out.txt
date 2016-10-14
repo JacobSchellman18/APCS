@@ -1,0 +1,1 @@
+Name: Jacob Schellman, Age: 16, Excitement for APCS: 10.0, Goal Grade: A, Is a follower of Harambe: true

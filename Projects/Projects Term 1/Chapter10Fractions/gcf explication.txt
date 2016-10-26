@@ -1,0 +1,22 @@
+        /*
+        9/3 is starting
+            d!=0
+            create temp = 3
+            d = 0;
+            n = temp
+        return n; (3)
+        27/5 is starting
+            d!=0
+            create temp = 5
+            d = 2   
+            n = temp
+            d!=0
+            create temp = 2
+            d = 1
+            n = temp
+            d!=0
+            create temp = 1
+            d = 0
+            n = temp
+        return n; (1)
+         */

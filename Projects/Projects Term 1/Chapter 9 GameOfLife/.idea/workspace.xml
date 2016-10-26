@@ -24,8 +24,8 @@
       <file leaf-file-name="LifeGrid.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LifeGrid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="165" column="29" selection-start-line="165" selection-start-column="29" selection-end-line="165" selection-end-column="29" />
+            <state relative-caret-position="612">
+              <caret line="165" column="1" selection-start-line="165" selection-start-column="1" selection-end-line="165" selection-end-column="1" />
               <folding>
                 <element signature="docComment;class#LifeGrid#0" expanded="false" />
                 <element signature="docComment;method#LifeGrid#0;class#LifeGrid#0" expanded="false" />
@@ -49,8 +49,11 @@
                 <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
                 <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
                 <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+                <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
                 <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+                <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
                 <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+                <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -59,7 +62,7 @@
       <file leaf-file-name="LifeControls.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LifeControls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="1173">
               <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
               <folding>
                 <element signature="docComment;method#acornButtonClicked#0;class#LifeControls#0" expanded="false" />
@@ -146,9 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,11 +184,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -484,8 +488,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -494,8 +498,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -517,7 +521,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -553,8 +557,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -617,8 +624,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -673,8 +683,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -729,8 +742,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -785,8 +801,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -849,8 +868,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -913,8 +935,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -977,8 +1002,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1022,8 +1050,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1086,8 +1117,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1157,8 +1191,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1205,8 +1242,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1291,7 +1331,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LifeControls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="1173">
           <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
           <folding>
             <element signature="docComment;method#acornButtonClicked#0;class#LifeControls#0" expanded="false" />
@@ -1303,8 +1343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LifeGrid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="165" column="29" selection-start-line="165" selection-start-column="29" selection-end-line="165" selection-end-column="29" />
+        <state relative-caret-position="612">
+          <caret line="165" column="1" selection-start-line="165" selection-start-column="1" selection-end-line="165" selection-end-column="1" />
           <folding>
             <element signature="docComment;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#LifeGrid#0;class#LifeGrid#0" expanded="false" />
@@ -1328,8 +1368,11 @@
             <element signature="docComment;method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="method#fillRandom#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createGGG#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createGGG#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#createAcorn#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#createAcorn#0;class#LifeGrid#0" expanded="false" />
             <element signature="docComment;method#stressTest#0;class#LifeGrid#0" expanded="false" />
+            <element signature="method#stressTest#0;class#LifeGrid#0" expanded="false" />
           </folding>
         </state>
       </provider>
